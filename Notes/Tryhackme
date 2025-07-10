@@ -1,0 +1,8 @@
+soc/
+└── lab/
+    ├── tryhackme/
+    │   ├── README.md
+    │   ├── intro-to-cybersecurity.md
+    │   ├── networking.md
+    │   └── windows-fundamentals.md
+    └── index.md
